@@ -47,7 +47,7 @@
   <animation>
     <type>rotate</type>
     <object-name>needle</object-name>
-    <property>/instrumentation/turn-indicator/indicated-turn-rate</property>
+    <property>instrumentation/turn-indicator/indicated-turn-rate</property>
     <interpolation>
       <entry><ind> -1.13 </ind><dep> -35.5 </dep></entry>
       <entry><ind>  1.13 </ind><dep>  35.5 </dep></entry>
@@ -67,7 +67,7 @@
   <animation>
     <type>rotate</type>
     <object-name>ball</object-name>
-    <property>/instrumentation/slip-skid-ball/indicated-slip-skid</property>
+    <property>instrumentation/slip-skid-ball/indicated-slip-skid</property>
     <interpolation>
       <entry><ind> -3 </ind><dep> -10 </dep></entry>
       <entry><ind>  3 </ind><dep>  10 </dep></entry>

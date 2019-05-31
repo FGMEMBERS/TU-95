@@ -95,7 +95,7 @@
   <animation>
     <type>translate</type>
     <object-name>ball</object-name>
-    <property>/instrumentation/slip-skid-ball/indicated-slip-skid</property>
+    <property>instrumentation/slip-skid-ball/indicated-slip-skid</property>
     <interpolation>
       <entry><ind> -3 </ind><dep>  0.0178 </dep></entry>
       <entry><ind>  3 </ind><dep> -0.0178 </dep></entry>
